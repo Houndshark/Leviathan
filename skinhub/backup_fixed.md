@@ -11,8 +11,8 @@ last updated <b>23/01/2024</b>
 # [Aristia(Edit) Instafade ver](https://github.com/Houndshark/Leviathan/skinhub/source/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
 [![](https://i.imgur.com/bH2yVlW.png)](https://github.com/Houndshark/Leviathan/skinhub/source/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
 
-# [cheeseburger](https://github.com/Houndshark/Leviathan/skinhub/source/cheeseburger.osk)
-[![](https://i.imgur.com/rSJXMC4.png)](https://github.com/Houndshark/Leviathan/skinhub/source/cheeseburger.osk)
+# [cheeseburger](https://leviathan.s-ul.eu/skins/tWkXxlbQ)
+[![](https://i.imgur.com/rSJXMC4.png)](https://leviathan.s-ul.eu/skins/tWkXxlbQ)
 
 #
 <p align="center">
